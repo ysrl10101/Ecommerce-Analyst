@@ -1,7 +1,7 @@
 🛒 E-Commerce Product Analysis
 📘 Project Overview
 
-Proyek ini bertujuan untuk menganalisis data penjualan produk e-commerce menggunakan Python (Pandas, Matplotlib, Seaborn) dan SQL-style analysis.
+Proyek ini bertujuan untuk menganalisis data penjualan produk e-commerce menggunakan Python (Pandas, Matplotlib, Seaborn).
 Analisis ini berfokus pada tren penjualan, performa produk, rating pelanggan, serta hubungan antara diskon, harga, dan volume penjualan.
 
 Dataset terdiri dari 1.000 baris data yang mencakup informasi produk, kategori, harga, diskon, stok, penjualan, rating, dan kota.
